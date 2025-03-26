@@ -1,0 +1,590 @@
+{
+  "personal_info": {
+    "name": "Lakshmi Sai Siva Teja Somana",
+    "education_level": "Undergraduate",
+    "major": "AI",
+    "goals": "ai prompt engineering"
+  },
+  "study_preferences": {
+    "preferred_subjects": [
+      "Python"
+    ],
+    "difficult_subjects": [
+      "Maths"
+    ],
+    "session_length_preference": 45
+  },
+  "productivity_patterns": {
+    "peak_productivity_times": [
+      "Night"
+    ],
+    "break_frequency": 25,
+    "break_duration": 10,
+    "sleep_schedule": {
+      "weekday": {
+        "sleep": "23:00",
+        "wake": "07:00"
+      },
+      "weekend": {
+        "sleep": "00:00",
+        "wake": "08:00"
+      }
+    }
+  },
+  "time_availability": {
+    "Monday": [
+      {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      {
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "Tuesday": [
+      {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      {
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "Wednesday": [
+      {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      {
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "Thursday": [
+      {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      {
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "Friday": [
+      {
+        "start": "09:00",
+        "end": "12:00"
+      },
+      {
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ],
+    "Saturday": [
+      {
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "Sunday": [
+      {
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ]
+  },
+  "created_at": "2025-03-26T22:32:59.079052",
+  "study_plans": {
+    "7216ab8d-3bfd-4140-92ab-3752ad5253f9": {
+      "plan_id": "7216ab8d-3bfd-4140-92ab-3752ad5253f9",
+      "user_id": "bc56093d-bbd8-422b-8b27-7fbf3df4b28d",
+      "created_at": "2025-03-26T22:33:18.380534",
+      "schedule": {
+        "daily_schedule": {
+          "Monday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Tuesday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Wednesday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Thursday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Friday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Saturday": [
+            {
+              "subject": "Maths",
+              "start_time": "10:00",
+              "end_time": "10:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            }
+          ],
+          "Sunday": [
+            {
+              "subject": "Maths",
+              "start_time": "10:00",
+              "end_time": "10:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            }
+          ]
+        },
+        "weekly_overview": {
+          "total_study_time_minutes": 540,
+          "total_study_time_hours": 9.0,
+          "subject_time_minutes": {
+            "Maths": 315,
+            "Python": 225
+          },
+          "subject_sessions": {
+            "Maths": 7,
+            "Python": 5
+          },
+          "subject_percentage": {
+            "Maths": 58.3,
+            "Python": 41.7
+          }
+        },
+        "generated_at": "2025-03-26T22:33:18.380534",
+        "version": 1
+      },
+      "metadata": {
+        "version": 1,
+        "optimization_factors": [
+          "productivity_patterns",
+          "subject_difficulty",
+          "time_availability"
+        ]
+      }
+    },
+    "b20a180f-86d0-4ef1-992f-940ba472a08c": {
+      "plan_id": "b20a180f-86d0-4ef1-992f-940ba472a08c",
+      "user_id": "bc56093d-bbd8-422b-8b27-7fbf3df4b28d",
+      "created_at": "2025-03-26T22:34:18.941609",
+      "schedule": {
+        "daily_schedule": {
+          "Monday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Tuesday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Wednesday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Thursday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Friday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Saturday": [
+            {
+              "subject": "Maths",
+              "start_time": "10:00",
+              "end_time": "10:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            }
+          ],
+          "Sunday": [
+            {
+              "subject": "Maths",
+              "start_time": "10:00",
+              "end_time": "10:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            }
+          ]
+        },
+        "weekly_overview": {
+          "total_study_time_minutes": 540,
+          "total_study_time_hours": 9.0,
+          "subject_time_minutes": {
+            "Maths": 315,
+            "Python": 225
+          },
+          "subject_sessions": {
+            "Maths": 7,
+            "Python": 5
+          },
+          "subject_percentage": {
+            "Maths": 58.3,
+            "Python": 41.7
+          }
+        },
+        "generated_at": "2025-03-26T22:34:18.941609",
+        "version": 1
+      },
+      "metadata": {
+        "version": 1,
+        "optimization_factors": [
+          "productivity_patterns",
+          "subject_difficulty",
+          "time_availability"
+        ]
+      }
+    },
+    "7d6efece-24f3-4a24-a5af-43ec6b69e0e4": {
+      "plan_id": "7d6efece-24f3-4a24-a5af-43ec6b69e0e4",
+      "user_id": "bc56093d-bbd8-422b-8b27-7fbf3df4b28d",
+      "created_at": "2025-03-26T22:36:42.170476",
+      "schedule": {
+        "daily_schedule": {
+          "Monday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Tuesday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Wednesday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Thursday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Friday": [
+            {
+              "subject": "Maths",
+              "start_time": "09:00",
+              "end_time": "09:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            },
+            {
+              "subject": "Python",
+              "start_time": "14:00",
+              "end_time": "14:45",
+              "duration_minutes": 45,
+              "difficulty": "medium",
+              "break_after": 10
+            }
+          ],
+          "Saturday": [
+            {
+              "subject": "Maths",
+              "start_time": "10:00",
+              "end_time": "10:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            }
+          ],
+          "Sunday": [
+            {
+              "subject": "Maths",
+              "start_time": "10:00",
+              "end_time": "10:45",
+              "duration_minutes": 45,
+              "difficulty": "hard",
+              "break_after": 10
+            }
+          ]
+        },
+        "weekly_overview": {
+          "total_study_time_minutes": 540,
+          "total_study_time_hours": 9.0,
+          "subject_time_minutes": {
+            "Maths": 315,
+            "Python": 225
+          },
+          "subject_sessions": {
+            "Maths": 7,
+            "Python": 5
+          },
+          "subject_percentage": {
+            "Maths": 58.3,
+            "Python": 41.7
+          }
+        },
+        "generated_at": "2025-03-26T22:36:42.170476",
+        "version": 1
+      },
+      "metadata": {
+        "version": 1,
+        "optimization_factors": [
+          "productivity_patterns",
+          "subject_difficulty",
+          "time_availability"
+        ]
+      }
+    }
+  },
+  "completed_sessions": [
+    {
+      "subject": "Python",
+      "start_time": "14:00",
+      "end_time": "14:45",
+      "date": "2025-03-26",
+      "rating": 5,
+      "notes": "",
+      "completed_at": "2025-03-26T22:33:55.509438"
+    },
+    {
+      "subject": "Python",
+      "start_time": "14:00",
+      "end_time": "14:45",
+      "date": "2025-03-26",
+      "rating": 5,
+      "notes": "",
+      "completed_at": "2025-03-26T22:34:33.670433"
+    }
+  ],
+  "performance_metrics": {
+    "subjects": {
+      "Python": {
+        "sessions": 2,
+        "total_rating": 10,
+        "total_duration": 0
+      }
+    },
+    "time_of_day": {
+      "morning": {
+        "sessions": 0,
+        "total_rating": 0
+      },
+      "afternoon": {
+        "sessions": 2,
+        "total_rating": 10
+      },
+      "evening": {
+        "sessions": 0,
+        "total_rating": 0
+      },
+      "night": {
+        "sessions": 0,
+        "total_rating": 0
+      }
+    },
+    "days_of_week": {
+      "Wednesday": {
+        "sessions": 2,
+        "total_rating": 10
+      }
+    }
+  },
+  "updated_at": "2025-03-26T22:34:16.498830"
+}
